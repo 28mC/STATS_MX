@@ -69,4 +69,4 @@ indicating that there is no significant variance difference between the two grou
 There is validity for the uniformity of variances assumption.")
 
 #GITHUBLINK
-print("https://github.com/28mC/MX.git")
+print("https://github.com/28mC/STATS_MX.git")
